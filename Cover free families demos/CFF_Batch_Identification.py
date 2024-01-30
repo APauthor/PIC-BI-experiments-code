@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-27 11:59
-@LastEditor: JK211
 LastEditTime: 2023-1-20
 @Discription:  利用cff的matrix来对批量请求进行非法识别，其中1代表非法请求，我们利用cff进行分组测试，并将1从序列中找出来
                The matrix of cff is utilized for illegal identification of batch requests, where 1 represents an illegal
