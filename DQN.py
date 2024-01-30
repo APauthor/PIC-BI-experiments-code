@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 """
-@Author: John
-@Email: johnjim0816@gmail.com
 @Date: 2020-06-12 00:50:49
-@LastEditor: John
 LastEditTime: 2022-07-13 00:08:18
 @Discription: This .py is the DQN algorithm we copied from github
 @Environment: python 3.7.7
