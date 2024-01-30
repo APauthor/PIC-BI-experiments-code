@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-09-19
-@LastEditor: JK211
 LastEditTime: 2023-09-19
 @Discription: This .py is the batch identification main part for RL learning train and test
 @Environment: python 3.7
