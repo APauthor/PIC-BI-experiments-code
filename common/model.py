@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-Author: John
-Email: johnjim0816@gmail.com
 Date: 2021-03-12 21:14:12
-LastEditor: John
 LastEditTime: 2021-09-15 13:21:03
 Discription: 
 Environment: 
