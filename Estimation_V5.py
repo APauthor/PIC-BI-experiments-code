@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-12 16:44
-@LastEditor: JK211
 LastEditTime: 2023-11-12 16:44
 @Discription:  该算法实现了对未知非法请求占比r%的估计，利用预测算法和采样实现了加权调和，对应贡献点1
                The algorithm achieves an estimation of the r% share of unknown illegal requests,
