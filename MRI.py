@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-27 11:59
-@LastEditor: JK211
 LastEditTime: 2024-1-20
 @Discription:  这是多分识别的单独实现
               This is a separate implementation of Multi Round Identification (MRI)
