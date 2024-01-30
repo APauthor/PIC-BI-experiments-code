@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-27 11:59
-@LastEditor: JK211
 LastEditTime: 2023-11-27
 @Discription:  这里实现了一个8-CFF(289,4913)非覆盖族的实例，并将其关联矩阵保存下来
                Here an instance of the 8-CFF(289,4913) non-covering family is realized and its association matrix is preserved
