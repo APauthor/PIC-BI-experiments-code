@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-27 11:59
 @LastEditor: JK211
 LastEditTime: 2023-1-20
