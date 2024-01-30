@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-@Author: JK211
-@Email: jerryren2884@gmail.com
 @Date: 2023-11-27 11:59
-@LastEditor: JK211
 LastEditTime: 2024-1-20
 @Discription:  我们利用一个01序列来模拟批量请求，其中1代表非法请求，0代表合法请求
                We model batch requests using a sequence of 01s, where 1 represent illegal requests and 0 represent legal requests
